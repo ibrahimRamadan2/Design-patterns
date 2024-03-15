@@ -43,4 +43,8 @@ The goal is to create a system where new tax rules can be added or existing ones
 
 A flexible and efficient tax calculation system that correctly applies US tax rules for a luxury item purchased by a premium customer, demonstrating the practical use of the Strategy Pattern in managing complex conditional logic and enhancing system maintainability.
 
-### Note: this app can expand and support all countries tax calculations, with this pattern
+### Note: this app can expand and support all countries tax calculations, with this pattern for Example add Germany tax calculator.
+
+### class diagram
+![image](https://github.com/ibrahimRamadan2/Design-patterns/assets/110139860/a3487129-2e14-4c04-8703-18c889024cf3)
+
